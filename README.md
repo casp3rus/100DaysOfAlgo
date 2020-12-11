@@ -1,3 +1,3 @@
 # 100DaysOfAlgo
 
-## Day 001 - Two Number Sum
+### Day 001 - Two Number Sum

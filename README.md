@@ -9,3 +9,5 @@
 > Day 004 - Depth First Search
 
 > Day 005 - Get Nth Fibonacci
+
+> Day 006 - Product Sum

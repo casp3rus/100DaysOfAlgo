@@ -11,3 +11,5 @@
 > Day 005 - Get Nth Fibonacci
 
 > Day 006 - Product Sum
+
+> Day 007 - Binary Search

@@ -1,11 +1,11 @@
 // Solution 1 - recursion
 // O(log(n)) time / O(log(n)) space
 
-const binarySearch = (array, target) => {
-    return binarySearchHelper(array, target, 0, array.length -1)
+const binarySearch1 = (array, target) => {
+    return binarySearchHelper1(array, target, 0, array.length -1)
 }
 
-const binarySearchHelper = (array, target, left, right) => {
+const binarySearchHelper1 = (array, target, left, right) => {
     if (left > right) return -1
     const middle = Math.floor((left + right) / 2)
     const potentialMatch = array[middle]
@@ -21,11 +21,11 @@ const binarySearchHelper = (array, target, left, right) => {
 // Solution 2 - iteration
 // O(log(n)) time / O(1) space
 
-const binarySearch = (array, target) => {
-    return binarySearchHelper(array, target, 0, array.length)
+const binarySearch2 = (array, target) => {
+    return binarySearchHelper2(array, target, 0, array.length)
 }
 
-const binarySearchHelper = (array, target, left, right) => {
+const binarySearchHelper2 = (array, target, left, right) => {
     while ( left <= right) {
         const middle = Math.floor((left + right) / 2)
         const potentialMatch = array[middle]

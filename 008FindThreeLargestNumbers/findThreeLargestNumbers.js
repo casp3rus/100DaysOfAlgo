@@ -9,7 +9,7 @@ const findThreeLargestNumbers = (array) => {
     return threeLargest
 }
 
-function updateLargest(threeLargest, num) {
+const updateLargest = (threeLargest, num) => {
     if (threeLargest[2] === null || num > threeLargest[2]) {
         shiftAndUpdate(threeLargest, num, 2)
     } else if (threeLargest[1] === null || num > threeLargest[1]) {

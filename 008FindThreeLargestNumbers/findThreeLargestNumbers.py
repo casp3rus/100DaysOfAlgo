@@ -22,4 +22,4 @@ def shiftAndUpdate(array, num, idx):
         if i == idx:
             array[i] = num
         else:
-             array[i] = array[i + 1]
+            array[i] = array[i + 1]

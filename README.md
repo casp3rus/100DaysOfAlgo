@@ -19,3 +19,5 @@
 > Day 008 - Find Three Largest Numbers
 
 > Day 009 - Bubble Sort
+
+> Day 010 - Insertion Sort

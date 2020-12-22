@@ -21,3 +21,5 @@
 > Day 009 - Bubble Sort
 
 > Day 010 - Insertion Sort
+
+> Day 011 - Selection Sort

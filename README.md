@@ -24,4 +24,4 @@
 
 > Day 011 - Selection Sort
 
-> DAy 012 - Palindrome Check
+> Day 012 - Palindrome Check

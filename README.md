@@ -23,3 +23,5 @@
 > Day 010 - Insertion Sort
 
 > Day 011 - Selection Sort
+
+> DAy 012 - Palindrome Check

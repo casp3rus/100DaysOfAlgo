@@ -21,13 +21,15 @@ def isPalindrome(string):
 # O(n) time / O(n) space
 # - check tail recursion for space improvement
 
-def isPalindrome(string, i = 0):
+
+def isPalindrome(string, i=0):
     j = len(string) - 1 - i
     return True if i >= j else string[i] == string[j] and isPalindrome(string, i + 1)
 
 # tail recursion
 
-def isPalindrome(string, i = 0):
+
+def isPalindrome(string, i=0):
     j = len(string) - 1 - i
     if i >= j:
         return True

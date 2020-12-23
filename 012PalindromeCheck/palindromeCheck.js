@@ -32,15 +32,15 @@ const isPalindrome = (string, i = 0) => {
 // tail recursion
 
 const isPalindrome = (string, i = 0) => {
-    const j = string.length - 1 - i
-    if (i >= j) {
-        return true
-    }
-    if (string[i] !== string[j]) {
-        return false
-    }
-    return isPalindrome(string, i + 1)
-}
+  const j = string.length - 1 - i;
+  if (i >= j) {
+    return true;
+  }
+  if (string[i] !== string[j]) {
+    return false;
+  }
+  return isPalindrome(string, i + 1);
+};
 
 // Solution 4
 // O(n) time / O(1) space

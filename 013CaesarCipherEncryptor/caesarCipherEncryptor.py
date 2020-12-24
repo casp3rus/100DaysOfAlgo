@@ -6,7 +6,7 @@ def caesarCipherEncryptor(string, key):
     newKey = key % 26
     for letter in string:
         newLetters.append(getNewLetter(letter, newKey))
-    return "".join(newLetters)
+    return ''.join(newLetters)
 
 
 def getNewLetter(letter, key):
@@ -20,10 +20,10 @@ def getNewLetter(letter, key):
 def caesarCipherEncryptor(string, key):
     newLetters = []
     newKey = key % 26
-    alphabet = list("abcdefghijklmnopqrstuvwxyz")
+    alphabet = list('abcdefghijklmnopqrstuvwxyz')
     for letter in string:
         newLetters.append(getNewLetter(letter, newKey, alphabet))
-    return "".join(newLetters)
+    return ''.join(newLetters)
 
 
 def getNewLetter(letter, key, alphabet):

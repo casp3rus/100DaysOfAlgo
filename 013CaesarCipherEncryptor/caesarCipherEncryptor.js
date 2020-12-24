@@ -1,4 +1,4 @@
-// Solution
+// Solution 1
 // O(n) time / O(n) space
 
 const caesarCipherEncryptor = (string, key) => {
@@ -17,7 +17,7 @@ const getNewLetter = (letter, key) => {
     : String.fromCharCode(96 + (newLetterCode % 122));
 };
 
-// Solution
+// Solution 2
 // O(n) time / O(n) space
 
 const caesarCipherEncryptor = (string, key) => {

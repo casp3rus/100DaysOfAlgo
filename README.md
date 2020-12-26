@@ -31,3 +31,5 @@
 > Day 014 - Node Depths
 
 > Day 015 - Run Length Encoding
+
+> Day 016 - Validate Subsequence

@@ -40,3 +40,4 @@
 
 > Day 019 - Move Element To End
 
+> Day 020 - Monotonic Array

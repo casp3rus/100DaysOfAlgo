@@ -43,3 +43,5 @@
 > Day 020 - Monotonic Array
 
 > Day 021 - Spiral Traverse
+
+> Day 022 - Longest Peak

@@ -10,7 +10,7 @@ const spiralTraverse = (array) => {
 
   while (startRow <= endRow && startCol <= endCol) {
     for (let col = startCol; col <= endCol; col++) {
-      result.push(array[startRow[col]]);
+      result.push(array[startRow][col]);
     }
     for (let row = startRow + 1; row <= endRow; row++) {
       result.push(array[row][endCol]);

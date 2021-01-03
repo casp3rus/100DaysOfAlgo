@@ -45,3 +45,5 @@
 > Day 021 - Spiral Traverse
 
 > Day 022 - Longest Peak
+
+> Day 023 - Array Of Products

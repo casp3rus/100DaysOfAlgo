@@ -47,3 +47,5 @@
 > Day 022 - Longest Peak
 
 > Day 023 - Array Of Products
+
+> Day 024 - First Duplicate Value

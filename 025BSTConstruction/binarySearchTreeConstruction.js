@@ -12,7 +12,7 @@ class BST {
 
   insert(value) {
     if (value < this.value) {
-      if (this.legt === null) {
+      if (this.left === null) {
         this.left = new BST(value);
       } else {
         this.left.insert(value);
@@ -41,7 +41,7 @@ class BST {
       if (this.right === null) {
         return false;
       } else {
-        return this.rigth.contains(value);
+        return this.right.contains(value);
       }
     } else {
       return true;
@@ -160,7 +160,7 @@ class BST {
         if (currentNode.left !== null && currentNode.right !== null) {
           currentNode.value = currentNode.right.getMinValue();
           currentNode.right.remove(currentNode.value, currentNode);
-        } else if ((parentNode = null)) {
+        } else if (parentNode === null) {
           if (currentNode.left !== null) {
             currentNode.value = currentNode.left.value;
             currentNode.right = currentNode.left.right;
@@ -168,7 +168,7 @@ class BST {
           } else if (currentNode.right !== null) {
             currentNode.value = currentNode.right.value;
             currentNode.left = currentNode.right.left;
-            currentNode.right = currentNode.rightri;
+            currentNode.right = currentNode.right.right;
           } else {
           }
         } else if (parentNode.left === currentNode) {

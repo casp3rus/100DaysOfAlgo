@@ -52,7 +52,7 @@
 
 > Day 024 - First Duplicate Value
 
-> Day 025 - BST Construction
+> [Day 025 - BST Construction](https://github.com/casp3rus/100DaysOfAlgo/tree/main/025BSTConstruction)
 
 > [Day 026 - Validate BST](https://github.com/casp3rus/100DaysOfAlgo/tree/main/026ValidateBST)
 

@@ -54,4 +54,4 @@
 
 > Day 026 - Validate BST
 
-> Day 027 - BST Traversal
+> [Day 027 - BST Traversal](https://github.com/casp3rus/100DaysOfAlgo/tree/main/027BSTTraversal)

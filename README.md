@@ -34,6 +34,8 @@
 
 > Day 016 - Validate Subsequence
 
+## Medium
+
 > Day 017 - Three Number Sum
 
 > Day 018 - Smallest Difference

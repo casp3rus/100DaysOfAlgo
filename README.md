@@ -57,3 +57,5 @@
 > [Day 026 - Validate BST](https://github.com/casp3rus/100DaysOfAlgo/tree/main/026ValidateBST)
 
 > [Day 027 - BST Traversal](https://github.com/casp3rus/100DaysOfAlgo/tree/main/027BSTTraversal)
+
+> [Day 028 - Minimum Height BST](https://github.com/casp3rus/100DaysOfAlgo/tree/main/028MinimumHeightBST)

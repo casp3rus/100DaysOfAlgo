@@ -53,3 +53,5 @@
 > Day 025 - BST Construction
 
 > Day 026 - Validate BST
+
+> Day 027 - BST Traversal

@@ -25,4 +25,4 @@ def postOrderTraverse(tree, array):
         postOrderTraverse(tree.left, array)
         postOrderTraverse(tree.right, array)
         array.append(tree.value)
-    return array 
+    return array

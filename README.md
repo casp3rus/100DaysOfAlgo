@@ -61,3 +61,5 @@
 > [Day 028 - Minimum Height BST](https://github.com/casp3rus/100DaysOfAlgo/tree/main/028MinimumHeightBST)
 
 > [Day 029 - Invert Binary Tree](https://github.com/casp3rus/100DaysOfAlgo/tree/main/029InvertBinaryTree)
+
+> [Day 030 - Binary Tree Diameter](https://github.com/casp3rus/100DaysOfAlgo/tree/main/030BinaryTreeDiameter)

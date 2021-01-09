@@ -2,11 +2,11 @@
 
 ## Easy
 
-> Day 001 - Two Number Sum
+> [Day 001 - Two Number Sum](https://github.com/casp3rus/100DaysOfAlgo/tree/main/001TwoNumberSum)
 
-> Day 002 - Find Closest Value in BST
+> [Day 002 - Find Closest Value in BST](https://github.com/casp3rus/100DaysOfAlgo/tree/main/002FindClosestValueInBST)
 
-> Day 003 - Branch Sums
+> [Day 003 - Branch Sums](https://github.com/casp3rus/100DaysOfAlgo/tree/main/003BranchSums)
 
 > Day 004 - Depth First Search
 

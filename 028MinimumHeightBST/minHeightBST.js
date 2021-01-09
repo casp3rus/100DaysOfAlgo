@@ -2,65 +2,65 @@
 // O(nlog(n)) time / O(n) space
 
 const minHeightBST = (array) => {
-    return constructMinHeightBST(array, null, 0, array.length - 1)
+  return constructMinHeightBST(array, null, 0, array.length - 1);
 };
 
 const constructMinHeightBST = (array, bst, startIdx, endIdx) => {
-    if (startIdx > endIdx) return
-    const midIdx = Math.floor((startIdx + endIdx) / 2)
-    const valueToAdd = array[midIdx]
-    if (bst === null) {
-        bst = new BST(valueToAdd)
-    } else {
-        bst.insert(valueToAdd)
-    }
-    constructMinHeightBST(array, bst, startIdx, midIdx - 1)
-    constructMinHeightBST(array, bst, midIdx + 1, endIdx)
-    return bst
-}
+  if (startIdx > endIdx) return;
+  const midIdx = Math.floor((startIdx + endIdx) / 2);
+  const valueToAdd = array[midIdx];
+  if (bst === null) {
+    bst = new BST(valueToAdd);
+  } else {
+    bst.insert(valueToAdd);
+  }
+  constructMinHeightBST(array, bst, startIdx, midIdx - 1);
+  constructMinHeightBST(array, bst, midIdx + 1, endIdx);
+  return bst;
+};
 
 // Solution 2
 // O() time / O() space
 
 const minHeightBST = (array) => {
-    return constructMinHeightBST(array, null, 0, array.length - 1)
+  return constructMinHeightBST(array, null, 0, array.length - 1);
 };
 
 const constructMinHeightBST = (array, bst, startIdx, endIdx) => {
-    if (startIdx > endIdx) return
-    const midIdx = Math.floor((startIdx + endIdx) / 2)
-    const newBstNode = new BST(array[midIdx])
-    if (bst === null) {
-        bst = newBstNode
+  if (startIdx > endIdx) return;
+  const midIdx = Math.floor((startIdx + endIdx) / 2);
+  const newBstNode = new BST(array[midIdx]);
+  if (bst === null) {
+    bst = newBstNode;
+  } else {
+    if (array[midIdx] < bst.value) {
+      bst.left = newBstNode;
+      bst = bst.left;
     } else {
-        if (array[midIdx] < bst.value) {
-            bst.left = newBstNode
-            bst = bst.left
-        } else {
-            bst.right = newBstNode
-            bst = bst.right
-        }
+      bst.right = newBstNode;
+      bst = bst.right;
     }
-    constructMinHeightBST(array, bst, startIdx, midIdx - 1)
-    constructMinHeightBST(array, bst, midIdx + 1, endIdx)
-    return bst
-}
+  }
+  constructMinHeightBST(array, bst, startIdx, midIdx - 1);
+  constructMinHeightBST(array, bst, midIdx + 1, endIdx);
+  return bst;
+};
 
 // Solution 3
 // O() time / O() space
 
 const minHeightBST = (array) => {
-    return constructMinHeightBST(array, 0, array.length - 1)
+  return constructMinHeightBST(array, 0, array.length - 1);
 };
 
 const constructMinHeightBST = (array, startIdx, endIdx) => {
-    if (startIdx > endIdx) return null
-    const midIdx = Math.floor((startIdx + endIdx) / 2)
-    const bst = new BST(array[midIdx])
-    bst.left = constructMinHeightBST(array, startIdx, midIdx - 1)
-    bst.right = constructMinHeightBST(array, midIdx + 1, endIdx)
-    return bst
-}
+  if (startIdx > endIdx) return null;
+  const midIdx = Math.floor((startIdx + endIdx) / 2);
+  const bst = new BST(array[midIdx]);
+  bst.left = constructMinHeightBST(array, startIdx, midIdx - 1);
+  bst.right = constructMinHeightBST(array, midIdx + 1, endIdx);
+  return bst;
+};
 
 class BST {
   constructor(value) {

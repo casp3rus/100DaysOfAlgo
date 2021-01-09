@@ -3,11 +3,12 @@
 
 def minHeightBST(array):
     return constructMinHeightBst(array, None, 0, len(array) - 1)
-    
+
+
 def constructMinHeightBst(array, bst, startIdx, endIdx):
     if startIdx > endIdx:
         return
-    midIdx = (startIdx + endIdx)  // 2
+    midIdx = (startIdx + endIdx) // 2
     valueToAdd = array[midIdx]
     if bst is None:
         bst = BST(valueToAdd)
@@ -24,11 +25,12 @@ def constructMinHeightBst(array, bst, startIdx, endIdx):
 
 def minHeightBST(array):
     return constructMinHeightBst(array, None, 0, len(array) - 1)
-    
+
+
 def constructMinHeightBst(array, bst, startIdx, endIdx):
     if startIdx > endIdx:
         return
-    midIdx = (startIdx + endIdx)  // 2
+    midIdx = (startIdx + endIdx) // 2
     newBstNode = BST(array[midIdx])
     if bst is None:
         bst = newBstNode
@@ -46,13 +48,15 @@ def constructMinHeightBst(array, bst, startIdx, endIdx):
 # Solution 3
 # O(n) time / O(n) space
 
+
 def minHeightBST(array):
     return constructMinHeightBst(array, None, 0, len(array) - 1)
-    
+
+
 def constructMinHeightBst(array, bst, startIdx, endIdx):
     if startIdx > endIdx:
         return None
-    midIdx = (startIdx + endIdx)  // 2
+    midIdx = (startIdx + endIdx) // 2
     bst = BST(array[midIdx])
     bst.left = constructMinHeightBst(array, startIdx, midIdx - 1)
     bst.right = constructMinHeightBst(array, startIdx + 1, midIdx)

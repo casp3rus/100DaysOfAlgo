@@ -1,4 +1,4 @@
-# Solution
+# Solution 1
 # O(nlog(n)) time / O(n) space
 
 def minHeightBST(array):
@@ -18,7 +18,7 @@ def constructMinHeightBst(array, bst, startIdx, endIdx):
     return bst
 
 
-# Solution
+# Solution 2
 # O(n) time / O(n) space
 
 
@@ -43,7 +43,7 @@ def constructMinHeightBst(array, bst, startIdx, endIdx):
     constructMinHeightBst(array, bst, startIdx + 1, midIdx)
     return bst
 
-# Solution
+# Solution 3
 # O(n) time / O(n) space
 
 def minHeightBST(array):

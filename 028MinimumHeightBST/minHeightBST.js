@@ -1,4 +1,4 @@
-// Solution
+// Solution 1
 // O(nlog(n)) time / O(n) space
 
 const minHeightBST = (array) => {
@@ -19,7 +19,7 @@ const constructMinHeightBST = (array, bst, startIdx, endIdx) => {
     return bst
 }
 
-// Solution
+// Solution 2
 // O() time / O() space
 
 const minHeightBST = (array) => {
@@ -46,7 +46,7 @@ const constructMinHeightBST = (array, bst, startIdx, endIdx) => {
     return bst
 }
 
-// Solution
+// Solution 3
 // O() time / O() space
 
 const minHeightBST = (array) => {

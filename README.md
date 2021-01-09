@@ -59,3 +59,5 @@
 > [Day 027 - BST Traversal](https://github.com/casp3rus/100DaysOfAlgo/tree/main/027BSTTraversal)
 
 > [Day 028 - Minimum Height BST](https://github.com/casp3rus/100DaysOfAlgo/tree/main/028MinimumHeightBST)
+
+> [Day 029 - Invert Binary Tree](https://github.com/casp3rus/100DaysOfAlgo/tree/main/029InvertBinaryTree)

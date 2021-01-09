@@ -5,7 +5,7 @@ const invertBinaryTree = (tree) => {
   const queue = [tree];
   while (queue.length) {
     const currentNode = queue.shift();
-    if (currentNode === null) return;
+    if (currentNode === null) continue;
     swapLeftAndRight(currentNode);
     queue.push(currentNode.left);
     queue.push(currentNode.right);

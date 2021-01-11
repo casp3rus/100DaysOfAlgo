@@ -65,3 +65,5 @@
 > [Day 030 - Binary Tree Diameter](https://github.com/casp3rus/100DaysOfAlgo/tree/main/030BinaryTreeDiameter)
 
 > [Day 031 - Find Successor](https://github.com/casp3rus/100DaysOfAlgo/tree/main/031FindSuccessor)
+
+> [Max Subset Sum No Adjacent](https://github.com/casp3rus/100DaysOfAlgo/tree/main/032MaxSubsetSumNoAdjacent)

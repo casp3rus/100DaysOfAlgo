@@ -8,11 +8,11 @@
 
 > [Day 003 - Branch Sums](https://github.com/casp3rus/100DaysOfAlgo/tree/main/003BranchSums)
 
-> [Day 004 - Depth First Search]()
+> [Day 004 - Depth First Search](https://github.com/casp3rus/100DaysOfAlgo/tree/main/004DepthFirstSearch)
 
-> [Day 005 - Get Nth Fibonacci]()
+> [Day 005 - Get Nth Fibonacci](https://github.com/casp3rus/100DaysOfAlgo/tree/main/005NthFibonacci)
 
-> [Day 006 - Product Sum]()
+> [Day 006 - Product Sum](https://github.com/casp3rus/100DaysOfAlgo/tree/main/006ProductSum)
 
 > [Day 007 - Binary Search]()
 

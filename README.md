@@ -66,6 +66,6 @@
 
 > [Day 031 - Find Successor](https://github.com/casp3rus/100DaysOfAlgo/tree/main/031FindSuccessor)
 
-> [Max Subset Sum No Adjacent](https://github.com/casp3rus/100DaysOfAlgo/tree/main/032MaxSubsetSumNoAdjacent)
+> [Day 032 - Max Subset Sum No Adjacent](https://github.com/casp3rus/100DaysOfAlgo/tree/main/032MaxSubsetSumNoAdjacent)
 
-> [Number Of Ways To Make Change](https://github.com/casp3rus/100DaysOfAlgo/tree/main/033NumberOfWaysToMakeChange)
+> [Day 033 - Number Of Ways To Make Change](https://github.com/casp3rus/100DaysOfAlgo/tree/main/033NumberOfWaysToMakeChange)

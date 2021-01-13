@@ -14,7 +14,7 @@
 
 > [Day 006 - Product Sum](https://github.com/casp3rus/100DaysOfAlgo/tree/main/006ProductSum)
 
-> [Day 007 - Binary Search]()
+> [Day 007 - Binary Search](https://github.com/casp3rus/100DaysOfAlgo/tree/main/007BinarySearch)
 
 > [Day 008 - Find Three Largest Numbers]()
 

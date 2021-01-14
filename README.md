@@ -71,3 +71,5 @@
 > [Day 033 - Number Of Ways To Make Change](https://github.com/casp3rus/100DaysOfAlgo/tree/main/033NumberOfWaysToMakeChange)
 
 > [Day 034 - Min Number Of Coins For Change](https://github.com/casp3rus/100DaysOfAlgo/tree/main/034MinNumberOfCoinsForChange)
+
+> [Day 035 - Levenshtein Distance](https://github.com/casp3rus/100DaysOfAlgo/tree/main/035LecenshteinDistance)

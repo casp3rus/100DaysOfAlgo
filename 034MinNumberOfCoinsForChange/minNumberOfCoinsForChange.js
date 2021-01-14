@@ -1,5 +1,7 @@
 // Solution
-// O() time / O() space
+// O(nd) time / O(n) space
+// n - target amount
+// d - number of denominations
 
 const minNumberOfCoinsForChange = (n, denoms) => {
   const numOfCoins = new Array(n + 1).fill(Infinity);

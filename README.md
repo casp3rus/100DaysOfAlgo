@@ -75,3 +75,5 @@
 > [Day 035 - Levenshtein Distance](https://github.com/casp3rus/100DaysOfAlgo/tree/main/035LecenshteinDistance)
 
 > [Day 036 - Kadane's Algorithm](https://github.com/casp3rus/100DaysOfAlgo/tree/main/036KadanesAlgorithm)
+
+> [Day 037 - Single Cycle Check](https://github.com/casp3rus/100DaysOfAlgo/tree/main/037SingleCycleCheck)

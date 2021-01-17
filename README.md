@@ -77,3 +77,5 @@
 > [Day 036 - Kadane's Algorithm](https://github.com/casp3rus/100DaysOfAlgo/tree/main/036KadanesAlgorithm)
 
 > [Day 037 - Single Cycle Check](https://github.com/casp3rus/100DaysOfAlgo/tree/main/037SingleCycleCheck)
+
+> [Day 038 - Breadth First Search](https://github.com/casp3rus/100DaysOfAlgo/tree/main/038BreadthFirstSearch) 

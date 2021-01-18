@@ -18,7 +18,7 @@ class Node
     def breadth_first_search(array)
         queue = [self]
         while !queue.empty?
-            current = queue.shift
+            current = queue.shift()
             array << current.name
             current.children.each do |child|
                 queue << child

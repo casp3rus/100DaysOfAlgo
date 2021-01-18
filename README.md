@@ -78,4 +78,6 @@
 
 > [Day 037 - Single Cycle Check](https://github.com/casp3rus/100DaysOfAlgo/tree/main/037SingleCycleCheck)
 
-> [Day 038 - Breadth First Search](https://github.com/casp3rus/100DaysOfAlgo/tree/main/038BreadthFirstSearch) 
+> [Day 038 - Breadth First Search](https://github.com/casp3rus/100DaysOfAlgo/tree/main/038BreadthFirstSearch)
+
+> [Day 039 - River Sizes](https://github.com/casp3rus/100DaysOfAlgo/tree/main/039RiverSizes)

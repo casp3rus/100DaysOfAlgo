@@ -4,6 +4,6 @@
 - Write a function that returns the youngest common ancestor to the two descendants. 
 - Note that a descendant is considered its own ancestor. So in the simple ancestral tree below, the youngest common ancestor to nodes A and B is node A.
 
-  A 
- / 
-B
+>  A 
+> / 
+>B

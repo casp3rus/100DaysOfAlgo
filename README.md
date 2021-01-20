@@ -82,4 +82,6 @@
 
 > [Day 039 - River Sizes](https://github.com/casp3rus/100DaysOfAlgo/tree/main/039RiverSizes)
 
-> [Day 040 - Youngest Common Ancestor](https://github.com/casp3rus/100DaysOfAlgo/tree/main/040YoungestCommonAncestor) 
+> [Day 040 - Youngest Common Ancestor](https://github.com/casp3rus/100DaysOfAlgo/tree/main/040YoungestCommonAncestor)
+
+> [Day 041 - Remove Islands](https://github.com/casp3rus/100DaysOfAlgo/tree/main/041RemoveIslands)

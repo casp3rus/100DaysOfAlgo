@@ -85,3 +85,5 @@
 > [Day 040 - Youngest Common Ancestor](https://github.com/casp3rus/100DaysOfAlgo/tree/main/040YoungestCommonAncestor)
 
 > [Day 041 - Remove Islands](https://github.com/casp3rus/100DaysOfAlgo/tree/main/041RemoveIslands)
+
+> [Day 042 - Min Heap Construction](https://github.com/casp3rus/100DaysOfAlgo/tree/main/042MinHeapConstruction)

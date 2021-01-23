@@ -89,3 +89,5 @@
 > [Day 042 - Min Heap Construction](https://github.com/casp3rus/100DaysOfAlgo/tree/main/042MinHeapConstruction)
 
 > [Day 043 - Linked List Construction](https://github.com/casp3rus/100DaysOfAlgo/tree/main/043LinkedListConstruction)
+
+> [Day 044 - Remove Kth Node From End](https://github.com/casp3rus/100DaysOfAlgo/tree/main/044RemoveKthNodeFromEnd)

@@ -21,7 +21,7 @@ const permutationsHelper = (array, currentPermutation, permutations) => {
 };
 
 // Solution
-// O() time / O() space
+// O(n*n!) time / O(n*n!)space
 
 const getPermutations = (array) => {
   const permutations = [];

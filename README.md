@@ -93,3 +93,5 @@
 > [Day 044 - Remove Kth Node From End](https://github.com/casp3rus/100DaysOfAlgo/tree/main/044RemoveKthNodeFromEnd)
 
 > [Day 045 - Permutations](https://github.com/casp3rus/100DaysOfAlgo/tree/main/045Permutations)
+
+> [Day 046 - Powerset](https://github.com/casp3rus/100DaysOfAlgo/tree/main/046Powerset)

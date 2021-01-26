@@ -2,6 +2,7 @@
 
 - If you open the keypad of your mobile phone, it will likely look like this:
 
+<!-- language: lang-none -->
  ----- ----- ----- 
 |  1  |  2  |  3  |
 |     | abc | def |

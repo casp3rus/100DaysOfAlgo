@@ -96,4 +96,4 @@
 
 > [Day 046 - Powerset](https://github.com/casp3rus/100DaysOfAlgo/tree/main/046Powerset)
 
-> [Day 047 - Phone Numbers Mnemonic](https://github.com/casp3rus/100DaysOfAlgo/tree/main/047PhoneNumbersMnemonics)
+> [Day 047 - Phone Number Mnemonics](https://github.com/casp3rus/100DaysOfAlgo/tree/main/047PhoneNumberMnemonics)

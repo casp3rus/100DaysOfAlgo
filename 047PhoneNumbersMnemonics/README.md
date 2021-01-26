@@ -2,7 +2,7 @@
 
 - If you open the keypad of your mobile phone, it will likely look like this:
 
-<rawtext>
+~~~
  ----- ----- ----- 
 |  1  |  2  |  3  |
 |     | abc | def |
@@ -15,7 +15,7 @@
  ----- ----- -----
       |  0  |
        -----
-</rawtext>
+~~~
 
 - Almost every digit is associated with some letters in the alphabet; this allows certain phone numbers to spell out actual words. Forexample, the phone number 8464747328 can be written as timisgreat; similarly, thephone number 2686463 can be written as antoine or as ant6463.
 - It's important to note that a phone number doesn't represent a single sequence of letters, but rather multiple combinations of letters. For instance, the digit 2 can represent three different letters (a, b, and c).

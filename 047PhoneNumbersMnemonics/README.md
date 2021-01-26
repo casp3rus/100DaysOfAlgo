@@ -21,3 +21,24 @@
 - It's important to note that a phone number doesn't represent a single sequence of letters, but rather multiple combinations of letters. For instance, the digit 2 can represent three different letters (a, b, and c).
 - A mnemonic is defined as a pattern of letters, ideas, or associations that assist in remembering something. Companies often times use a mnemonic for their phone number to make it easier to remember.
 - Given a stringified phone number of any non-zero length, write a function that returns all mnemonics for this phone number, in any order.
+- Sample input:
+    ~~~
+    phoneNumber = "1905"
+    ~~~
+- Sample putput:
+    ~~~
+    [ 
+        "1w0j", 
+        "1w0k", 
+        "1w0l", 
+        "1x0j", 
+        "1x0k", 
+        "1x0l", 
+        "1y0j", 
+        "1y0k", 
+        "1y0l", 
+        "1z0j", 
+        "1z0k", 
+        "1z0l", 
+    ]
+    ~~~

@@ -16,41 +16,41 @@
 
 > [Day 007 - Binary Search](https://github.com/casp3rus/100DaysOfAlgo/tree/main/007BinarySearch)
 
-> [Day 008 - Find Three Largest Numbers]()
+> [Day 008 - Find Three Largest Numbers](https://github.com/casp3rus/100DaysOfAlgo/tree/main/008FindThreeLargestNumbers)
 
-> [Day 009 - Bubble Sort]()
+> [Day 009 - Bubble Sort](https://github.com/casp3rus/100DaysOfAlgo/tree/main/009BubbleSort)
 
-> [Day 010 - Insertion Sort]()
+> [Day 010 - Insertion Sort](https://github.com/casp3rus/100DaysOfAlgo/tree/main/010InsertionSort)
 
-> [Day 011 - Selection Sort]()
+> [Day 011 - Selection Sort](https://github.com/casp3rus/100DaysOfAlgo/tree/main/011SelectionSort)
 
-> [Day 012 - Palindrome Check]()
+> [Day 012 - Palindrome Check](https://github.com/casp3rus/100DaysOfAlgo/tree/main/012PalindromeCheck)
 
-> [Day 013 - Caesar Cipher Encryptor]()
+> [Day 013 - Caesar Cipher Encryptor](https://github.com/casp3rus/100DaysOfAlgo/tree/main/013CaesarCipherEncryptor)
 
-> [Day 014 - Node Depths]()
+> [Day 014 - Node Depths](https://github.com/casp3rus/100DaysOfAlgo/tree/main/014NodeDepths)
 
-> [Day 015 - Run Length Encoding]()
+> [Day 015 - Run Length Encoding](https://github.com/casp3rus/100DaysOfAlgo/tree/main/015RunLengthEncoding)
 
-> [Day 016 - Validate Subsequence]()
+> [Day 016 - Validate Subsequence](https://github.com/casp3rus/100DaysOfAlgo/tree/main/016ValidateSubsequence)
 
 ## Medium
 
-> [Day 017 - Three Number Sum]()
+> [Day 017 - Three Number Sum](https://github.com/casp3rus/100DaysOfAlgo/tree/main/017ThreeNumberSum)
 
-> [Day 018 - Smallest Difference]()
+> [Day 018 - Smallest Difference](https://github.com/casp3rus/100DaysOfAlgo/tree/main/018SmallestDifference)
 
-> [Day 019 - Move Element To End]()
+> [Day 019 - Move Element To End](https://github.com/casp3rus/100DaysOfAlgo/tree/main/019MoveElementToEnd)
 
-> [Day 020 - Monotonic Array]()
+> [Day 020 - Monotonic Array](https://github.com/casp3rus/100DaysOfAlgo/tree/main/020MonotonicArray)
 
-> [Day 021 - Spiral Traverse]()
+> [Day 021 - Spiral Traverse](https://github.com/casp3rus/100DaysOfAlgo/tree/main/021SpiralTraverse)
 
-> [Day 022 - Longest Peak]()
+> [Day 022 - Longest Peak](https://github.com/casp3rus/100DaysOfAlgo/tree/main/022LongestPeak)
 
-> [Day 023 - Array Of Products]()
+> [Day 023 - Array Of Products](https://github.com/casp3rus/100DaysOfAlgo/tree/main/023ArrayOfProducts)
 
-> [Day 024 - First Duplicate Value]()
+> [Day 024 - First Duplicate Value](https://github.com/casp3rus/100DaysOfAlgo/tree/main/024FirstDuplicateValue)
 
 > [Day 025 - BST Construction](https://github.com/casp3rus/100DaysOfAlgo/tree/main/025BSTConstruction)
 

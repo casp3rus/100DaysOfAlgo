@@ -1,7 +1,7 @@
 # Solution 1 
 # O(n^2) time / O(1) space
 
-def twoNumberSum1(array, targetSum):
+def twoNumberSum(array, targetSum):
     for i in range(len(array) - 1):
         firstNum = array[i]
         for j in range(i + 1, len(array)):
@@ -14,7 +14,7 @@ def twoNumberSum1(array, targetSum):
 # Solution 2
 # O(n) time / O(n) space
 
-def twoNumberSum2(array, targetSum):
+def twoNumberSum(array, targetSum):
     nums = {}
     for num in array:
         potentialMatch = targetSum - num
@@ -27,7 +27,7 @@ def twoNumberSum2(array, targetSum):
 # Solution 3
 # O(nLog(n)) time / O(1) space
 
-def twoNumberSum3(array, targetSum):
+def twoNumberSum(array, targetSum):
     array.sort()
     left = 0
     right = len(array) - 1

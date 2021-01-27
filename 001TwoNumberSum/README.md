@@ -11,5 +11,5 @@
     ~~~
 - Sample Output
     ~~~
-    [-1, 11]
+    [-1, 11]    // the order is not important
     ~~~

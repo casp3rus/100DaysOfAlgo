@@ -99,3 +99,5 @@
 > [Day 047 - Phone Number Mnemonics](https://github.com/casp3rus/100DaysOfAlgo/tree/main/047PhoneNumberMnemonics)
 
 > [Day 048 - Search In Sorted Matrix](https://github.com/casp3rus/100DaysOfAlgo/tree/main/048SearchInSortedMatrix)
+
+> [Day 049 - Three Number Sort]() 

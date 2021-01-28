@@ -6,6 +6,7 @@
 - Sample input:
     ~~~
     array = [1, 0, 0, -1, -1, 0, 1, 1]
+    
     order = [0, 1, -1]
     ~~~
 - Sample output:

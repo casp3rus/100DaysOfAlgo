@@ -101,3 +101,5 @@
 > [Day 048 - Search In Sorted Matrix](https://github.com/casp3rus/100DaysOfAlgo/tree/main/048SearchInSortedMatrix)
 
 > [Day 049 - Three Number Sort](https://github.com/casp3rus/100DaysOfAlgo/tree/main/049ThreeNumberSort) 
+
+> [Day 050 - Min Max Stack Construction](https://github.com/casp3rus/100DaysOfAlgo/tree/main/050MinMaxStackConstruction)

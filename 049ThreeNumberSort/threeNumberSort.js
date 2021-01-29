@@ -1,5 +1,6 @@
 // Solution
 // O(n) time / O(1) space
+// n - length of the array
 
 const threeNumberSort = (array, order) => {
   const valueCounts = [0, 0, 0];
@@ -27,6 +28,7 @@ const threeNumberSort = (array, order) => {
 
 // Solution
 // O(n) time / O(1) space
+// n - length of the array
 
 const threeNumberSort = (array, order) => {
   const firstValue = order[0];
@@ -58,6 +60,7 @@ const swap = (i, j, array) => {
 
 // Solution
 // O(n) time / O(1) space
+// n - length of the array
 
 const threeNumberSort = (array, order) => {
   const firstValue = order[0];

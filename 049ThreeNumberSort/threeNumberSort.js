@@ -1,4 +1,4 @@
-// Solution
+// Solution 1
 // O(n) time / O(1) space
 // n - length of the array
 
@@ -26,7 +26,7 @@ const threeNumberSort = (array, order) => {
   return array;
 };
 
-// Solution
+// Solution 2
 // O(n) time / O(1) space
 // n - length of the array
 
@@ -58,7 +58,7 @@ const swap = (i, j, array) => {
   array[i] = temp;
 };
 
-// Solution
+// Solution 3
 // O(n) time / O(1) space
 // n - length of the array
 

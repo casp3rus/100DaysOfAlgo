@@ -1,5 +1,6 @@
-# Solution
+# Solution 1
 # O(n) time / O(1) space
+# n - length of the array
 
 def threeNumberSort(array, order):
     valueCount = [0, 0, 0]
@@ -20,8 +21,9 @@ def threeNumberSort(array, order):
     return array
 
 
-# Solution
+# Solution 2
 # O(n) time / O(1) space
+# n - length of the array
 
 def threeNumberSort(array, order):
     firstValue = order[0]
@@ -42,8 +44,9 @@ def threeNumberSort(array, order):
     return array
 
 
-# Solution
+# Solution 3
 # O(n) time / O(1) space
+# n - length of the array
 
 def threeNumberSort(array, order):
     firstValue = order[0]

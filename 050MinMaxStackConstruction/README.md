@@ -8,6 +8,7 @@
 - Sample usage:
     ~~~
     // All operations below are performed sequentially
+    
     MinMaxStack(): - // instantiate a MinMaxStack
     push(5): -
     getMin(): 5

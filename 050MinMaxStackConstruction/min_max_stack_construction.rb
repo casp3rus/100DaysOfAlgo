@@ -10,7 +10,7 @@ class MinMaxStack
         if @stack.length == 0
            return "The stack is empty, nothing to peek at!" 
         end
-        return @stack[- 1]
+        return @stack[-1]
     end
 
     # O(1) time / O(1) space

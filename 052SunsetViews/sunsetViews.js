@@ -25,7 +25,7 @@ const sunsetViews = (buildings, direction) => {
 };
 
 // Solution
-// O() time / O() space
+// O(n) time / O(n) space
 
 const sunsetViews = (buildings, direction) => {
   const candidateBuildings = [];

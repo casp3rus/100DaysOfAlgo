@@ -109,3 +109,5 @@
 > [Day 052 - Sunset Views](https://github.com/casp3rus/100DaysOfAlgo/tree/main/052SunsetViews)
 
 > [Day 053 - Longest Palindromic Substring](https://github.com/casp3rus/100DaysOfAlgo/tree/main/053LongestPalindromicSubstring)
+
+> [Day 054 - Group Anagrams](https://github.com/casp3rus/100DaysOfAlgo/tree/main/054GroupAnagrams)

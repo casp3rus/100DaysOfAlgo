@@ -5,17 +5,18 @@
 - Each Binary Tree node has an integer value, a left child node and a right child node. Children nodes can either be Binary Tree nodes themselves or None / null .
 - Sample input:
     ~~~
-    tree =        1
-               /     \
-              2       3
-             / \     / \
-            4   5   6   7
+    tree =       1
+               /    \
+              2      3
+             / \    / \
+            4   5  6   7
            / \   \
           8   9  10
     ~~~
 - Sample output:
     ~~~
     [15, 16, 18, 10, 11]
+
     // 15 == 1 + 2 + 4 + 8
     // 16 == 1 + 2 + 4 + 9
     // 18 == 1 + 2 + 5 + 10

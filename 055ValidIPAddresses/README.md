@@ -5,9 +5,9 @@
 - An IP address isn't valid if any of the individual integers contains leading 0 s. For example, "192.168.0.1" is a valid IP address, but "192.168.00.1" and "192.168.0.01" aren't, because they contain "00" and 01, respectively. Another example of a valid IP address is "99.1.1.10"; conversely, "991.1.1.0" isn't valid, because "991" is greater than 255.
 - Your function should return the IP addresses in a string format and in no particular order. If no valid IP addresses can be created from the string, your function should return an empty list.
 - Sample input:
-~~~
+    ~~~
     string = "1921680"
-~~~
+    ~~~
 - Sample output:
     ~~~
     [ 

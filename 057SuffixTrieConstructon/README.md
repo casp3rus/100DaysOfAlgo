@@ -10,7 +10,7 @@
     ~~~
 - Sample output (for creation):
     ~~~
-    // The structure below is the root of
+    // The structure below is the root of the trie.
 
     {
         "c": {"*": true}, 

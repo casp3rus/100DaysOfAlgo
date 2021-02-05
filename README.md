@@ -115,3 +115,5 @@
 > [Day 055 - Valid IP Addresses](https://github.com/casp3rus/100DaysOfAlgo/tree/main/055ValidIPAddresses)
 
 > [Day 056 - Reverse Words In String](https://github.com/casp3rus/100DaysOfAlgo/tree/main/056ReverseWordsInString)
+
+> [Day 057 - Suffix Trie Construction](https://github.com/casp3rus/100DaysOfAlgo/tree/main/057SuffixTrieConstructon)

@@ -34,6 +34,8 @@
 
 > [Day 016 - Validate Subsequence](https://github.com/casp3rus/100DaysOfAlgo/tree/main/016ValidateSubsequence)
 
+> [Day 058 - Minimum Waiting Time](https://github.com/casp3rus/100DaysOfAlgo/tree/main/058MinimumWaitingTime)
+
 ## Medium
 
 > [Day 017 - Three Number Sum](https://github.com/casp3rus/100DaysOfAlgo/tree/main/017ThreeNumberSum)

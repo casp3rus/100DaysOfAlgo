@@ -1,4 +1,4 @@
-# Solution 
+# Solution
 # O(nlog(n)) time / O(1) space
 
 def minimumWaitingTime(queries):

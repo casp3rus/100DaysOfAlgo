@@ -36,6 +36,8 @@
 
 > [Day 058 - Minimum Waiting Time](https://github.com/casp3rus/100DaysOfAlgo/tree/main/058MinimumWaitingTime)
 
+> [Day 059 - Remove Duplicates From Linked List](https://github.com/casp3rus/100DaysOfAlgo/tree/main/059RemoveDuplicatesFromLinkedList)
+
 ## Medium
 
 > [Day 017 - Three Number Sum](https://github.com/casp3rus/100DaysOfAlgo/tree/main/017ThreeNumberSum)

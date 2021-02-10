@@ -40,6 +40,8 @@
 
 > [Day 060 - Class Photos](https://github.com/casp3rus/100DaysOfAlgo/tree/main/060ClassPhotos)
 
+> [Day 061 - Non-Constructible Change](https://github.com/casp3rus/100DaysOfAlgo/tree/main/061Non-ConstructibleChange)
+
 ## Medium
 
 > [Day 017 - Three Number Sum](https://github.com/casp3rus/100DaysOfAlgo/tree/main/017ThreeNumberSum)

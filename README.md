@@ -42,6 +42,8 @@
 
 > [Day 061 - Non-Constructible Change](https://github.com/casp3rus/100DaysOfAlgo/tree/main/061Non-ConstructibleChange)
 
+> [Day 062 - Tournament Winner](https://github.com/casp3rus/100DaysOfAlgo/tree/main/062TournamentWinner)
+
 ## Medium
 
 > [Day 017 - Three Number Sum](https://github.com/casp3rus/100DaysOfAlgo/tree/main/017ThreeNumberSum)

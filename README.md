@@ -129,3 +129,5 @@
 > [Day 057 - Suffix Trie Construction](https://github.com/casp3rus/100DaysOfAlgo/tree/main/057SuffixTrieConstructon)
 
 > [Day 063 - Task Assignment](https://github.com/casp3rus/100DaysOfAlgo/tree/main/063TaskAssignment)
+
+> [Day 064 - Valid Starting City](https://github.com/casp3rus/100DaysOfAlgo/tree/main/064ValidStartingCity)

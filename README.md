@@ -131,3 +131,5 @@
 > [Day 063 - Task Assignment](https://github.com/casp3rus/100DaysOfAlgo/tree/main/063TaskAssignment)
 
 > [Day 064 - Valid Starting City](https://github.com/casp3rus/100DaysOfAlgo/tree/main/064ValidStartingCity)
+
+> [cay 065 - Staircase Traversal](https://github.com/casp3rus/100DaysOfAlgo/tree/main/065StaircaseTraversal)

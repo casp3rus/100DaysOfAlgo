@@ -61,7 +61,7 @@ const staircaseTraversal = (height, maxSteps) => {
   return waysToTop[height];
 };
 
-// Solution
+// Solution 4
 // O(n) time / O(n) space
 // n - height of the staircase
 

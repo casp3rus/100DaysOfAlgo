@@ -133,3 +133,5 @@
 > [Day 064 - Valid Starting City](https://github.com/casp3rus/100DaysOfAlgo/tree/main/064ValidStartingCity)
 
 > [Day 065 - Staircase Traversal](https://github.com/casp3rus/100DaysOfAlgo/tree/main/065StaircaseTraversal)
+
+> [Day 066 - Sum Of Linked Lists](https://github.com/casp3rus/100DaysOfAlgo/tree/main/066SumOfLinkedLists)

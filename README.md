@@ -137,3 +137,7 @@
 > [Day 066 - Sum Of Linked Lists](https://github.com/casp3rus/100DaysOfAlgo/tree/main/066SumOfLinkedLists)
 
 > [Day 067 - Cycle In Graph](https://github.com/casp3rus/100DaysOfAlgo/tree/main/067CycleInGraph)
+
+## Hard
+
+> [Day 068 - Four Number Sum](https://github.com/casp3rus/100DaysOfAlgo/tree/main/068FourNumberSum)

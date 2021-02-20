@@ -145,3 +145,5 @@
 > [Day 069 - Subarray Sort](https://github.com/casp3rus/100DaysOfAlgo/tree/main/069SubarraySort)
 
 > [Day 070 - Largest Range](https://github.com/casp3rus/100DaysOfAlgo/tree/main/070LargestRange)
+
+> [Day 071 - Min Rewards](https://github.com/casp3rus/100DaysOfAlgo/tree/main/071MinRewards)

@@ -12,11 +12,12 @@ def minRewards(scores):
             while j >= 0 and scores[j] > scores[j + 1]:
                 rewards[j] = max(rewards[j], rewards[j + 1] + 1)
                 j -= 1
-    
+
     return sum(rewards)
 
 # Solution 2
 # O(n) time / O(n) space
+
 
 def minRewards(scores):
     rewards = [1 for _ in scores]
@@ -25,6 +26,7 @@ def minRewards(scores):
     for localMinIdx in localMinIdxs:
         expandFromLocalMinIdx(localMinIdx, scores, rewards)
     return sum(rewards)
+
 
 def expandFromLocalMinIdx(localMinIdx, scores, rewards):
     leftIdx = localMinIdx - 1
@@ -35,6 +37,8 @@ def expandFromLocalMinIdx(localMinIdx, scores, rewards):
     rightIdx = localMinIdx + 1
     while rightIdx < len(scores) and scores[rightIdx] > scores[rightIdx - 1]:
         rewards[rightIdx] = rewards[rightIdx - 1] + 1
+        rightIdx += 1
+
 
 def getLocalMinIdxs(array):
     if len(array) == 1:
@@ -52,6 +56,7 @@ def getLocalMinIdxs(array):
             localMinIdxs.append(i)
     return localMinIdxs
 
+
 # Solution 3
 # O(n) time / O(n) space
 
@@ -61,7 +66,7 @@ def minRewards(scores):
     for i in range(1, len(scores)):
         if scores[i] > scores[i - 1]:
             rewards[i] = rewards[i - 1] + 1
-    
+
     for i in reversed((range(len(scores) - 1))):
         if scores[i] > scores[i + 1]:
             rewards[i] = max(rewards[i], rewards[i + 1] + 1)

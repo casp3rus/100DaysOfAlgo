@@ -1,5 +1,5 @@
 # Solution
-#  O(n) time / O(n) space
+# O(n) time / O(n) space
 
 def zigzagTraverse(array):
     height = len(array) - 1

@@ -147,3 +147,5 @@
 > [Day 070 - Largest Range](https://github.com/casp3rus/100DaysOfAlgo/tree/main/070LargestRange)
 
 > [Day 071 - Min Rewards](https://github.com/casp3rus/100DaysOfAlgo/tree/main/071MinRewards)
+
+> [Day 072 - Zigzag Traverse](https://github.com/casp3rus/100DaysOfAlgo/tree/main/072ZigzagTraverse)

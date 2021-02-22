@@ -149,3 +149,5 @@
 > [Day 071 - Min Rewards](https://github.com/casp3rus/100DaysOfAlgo/tree/main/071MinRewards)
 
 > [Day 072 - Zigzag Traverse](https://github.com/casp3rus/100DaysOfAlgo/tree/main/072ZigzagTraverse)
+
+> [Day 073 - Same BSTs](https://github.com/casp3rus/100DaysOfAlgo/tree/main/073SameBSTs)

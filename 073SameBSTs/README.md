@@ -11,6 +11,7 @@
 - Sample output:
     ~~~
     true // both arrays represent the BST below
+    
             10 
            /  \ 
           8    15 

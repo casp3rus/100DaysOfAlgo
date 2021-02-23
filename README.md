@@ -151,3 +151,5 @@
 > [Day 072 - Zigzag Traverse](https://github.com/casp3rus/100DaysOfAlgo/tree/main/072ZigzagTraverse)
 
 > [Day 073 - Same BSTs](https://github.com/casp3rus/100DaysOfAlgo/tree/main/073SameBSTs)
+
+> [Day 074 - Max Path Sum In Binary Tree](https://github.com/casp3rus/100DaysOfAlgo/tree/main/074MaxPathSumInBinaryTree)

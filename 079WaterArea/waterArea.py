@@ -22,7 +22,7 @@ def waterArea(heights):
     return sum(maxes)
 
 # Solution 2
-# O() time / O() space
+# O(n) time / O(1) space
 
 
 def waterArea(heights):

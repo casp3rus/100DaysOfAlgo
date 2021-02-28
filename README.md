@@ -161,3 +161,5 @@
 > [Day 077 - Longest Common Subsequence](https://github.com/casp3rus/100DaysOfAlgo/tree/main/077LongestCommonSubsequence)
 
 > [Day 078 - Min Number Of Jumps](https://github.com/casp3rus/100DaysOfAlgo/tree/main/078MinNumberOfJumps)
+
+> [Day 079 - Water Area](https://github.com/casp3rus/100DaysOfAlgo/tree/main/079WaterArea)

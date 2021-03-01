@@ -1,4 +1,4 @@
-// Solution
+// Solution 1
 // O(n^2) time / O(n) Space
 
 const minNumberOfJumps = (array) => {
@@ -15,7 +15,7 @@ const minNumberOfJumps = (array) => {
   return jumps[jumps.length - 1];
 };
 
-// Solution
+// Solution 2
 // O(n) time / O(1) Space
 
 const minNumberOfJumps = (array) => {

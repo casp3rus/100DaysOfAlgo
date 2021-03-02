@@ -165,3 +165,5 @@
 > [Day 079 - Water Area](https://github.com/casp3rus/100DaysOfAlgo/tree/main/079WaterArea)
 
 > [Day 080 - Knapsack Problem](https://github.com/casp3rus/100DaysOfAlgo/tree/main/080KnapsackProblem)
+
+> [Day 081 - Disk Stacking](https://github.com/casp3rus/100DaysOfAlgo/tree/main/081DiskStacking)

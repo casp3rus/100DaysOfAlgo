@@ -1,6 +1,6 @@
 # Solution 1
 # O(n^3 + m) time / O(n + m) space
-# n - number of digitis in PI
+# n - number of digitis in Pi
 # m - number of favorite numbers
 
 def numbersInPi(pi, numbers):
@@ -25,7 +25,7 @@ def getMinSpaces(pi, numbersTable, cache, idx):
 
 # Solution 2
 # O(n^3 + m) time / O(n + m) space
-# n - number of digitis in PI
+# n - number of digitis in Pi
 # m - number of favorite numbers
 
 

@@ -7,6 +7,7 @@
 - Sample input:
   ~~~
   characters = "Bste!hetsi ogEAxpelrt x "
+  
   document = "AlgoExpert is the Best!"
   ~~~
 - Sample output:

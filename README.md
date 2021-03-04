@@ -44,6 +44,8 @@
 
 > [Day 062 - Tournament Winner](https://github.com/casp3rus/100DaysOfAlgo/tree/main/062TournamentWinner)
 
+> [Day 083 - Generate Document](https://github.com/casp3rus/100DaysOfAlgo/tree/main/083GenerateDocument)
+
 ## Medium
 
 > [Day 017 - Three Number Sum](https://github.com/casp3rus/100DaysOfAlgo/tree/main/017ThreeNumberSum)

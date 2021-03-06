@@ -142,6 +142,8 @@
 
 > [Day 067 - Cycle In Graph](https://github.com/casp3rus/100DaysOfAlgo/tree/main/067CycleInGraph)
 
+> [Day 085 - Find Kth Largest Value In BST](https://github.com/casp3rus/100DaysOfAlgo/tree/main/085FindKthLargestValueInBST)
+
 ## Hard
 
 > [Day 068 - Four Number Sum](https://github.com/casp3rus/100DaysOfAlgo/tree/main/068FourNumberSum)

@@ -46,6 +46,8 @@
 
 > [Day 083 - Generate Document](https://github.com/casp3rus/100DaysOfAlgo/tree/main/083GenerateDocument)
 
+> [Day 084 - Sorted Squared Array](https://github.com/casp3rus/100DaysOfAlgo/tree/main/084SortedSquaredArray)
+
 ## Medium
 
 > [Day 017 - Three Number Sum](https://github.com/casp3rus/100DaysOfAlgo/tree/main/017ThreeNumberSum)

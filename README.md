@@ -144,6 +144,8 @@
 
 > [Day 085 - Find Kth Largest Value In BST](https://github.com/casp3rus/100DaysOfAlgo/tree/main/085FindKthLargestValueInBST)
 
+> [Day 086 - Reconstruct BST](https://github.com/casp3rus/100DaysOfAlgo/tree/main/086ReconstructBST)
+
 ## Hard
 
 > [Day 068 - Four Number Sum](https://github.com/casp3rus/100DaysOfAlgo/tree/main/068FourNumberSum)

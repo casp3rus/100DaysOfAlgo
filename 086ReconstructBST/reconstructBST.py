@@ -1,5 +1,4 @@
 # Input class.
-
 class BST:
     def __init__(self, value, left=None, right=None):
         self.value = value
@@ -8,9 +7,8 @@ class BST:
 
 
 # Solution 1
-# O(n^2) time / O(h) space
+# O(n^2) time / O(n) space
 # n - number of nodes / length of preOrderTraversalValues array.
-# h - height of the tree
 
 def reconstructBst(preOrderTraversalValues):
     if len(preOrderTraversalValues) == 0:
@@ -32,10 +30,8 @@ def reconstructBst(preOrderTraversalValues):
     return BST(currentValue, leftSubtree, rightSubtree)
 
 # Solution 2
-# O(n) time / O(h) space
+# O(n) time / O(n) space
 # n - number of nodes / length of preOrderTraversalValues array.
-# h - height of the tree
-
 
 class TreeInfo:
     def __init__(self, rootIdx):

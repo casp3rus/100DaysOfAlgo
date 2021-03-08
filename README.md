@@ -177,3 +177,5 @@
 > [Day 081 - Disk Stacking](https://github.com/casp3rus/100DaysOfAlgo/tree/main/081DiskStacking)
 
 > [Day 082 - Numbers In Pi](https://github.com/casp3rus/100DaysOfAlgo/tree/main/082NumbersInPi)
+
+> [Day 087 - Dijkstra's Algorithm](https://github.com/casp3rus/100DaysOfAlgo/tree/main/087DijkstrasAlgorithm)

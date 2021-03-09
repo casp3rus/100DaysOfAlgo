@@ -146,6 +146,8 @@
 
 > [Day 086 - Reconstruct BST](https://github.com/casp3rus/100DaysOfAlgo/tree/main/086ReconstructBST)
 
+> [Day 088 - Number Of Ways To Traverse Graph](https://github.com/casp3rus/100DaysOfAlgo/tree/main/088NumberOfWaysToTraverseGraph)
+
 ## Hard
 
 > [Day 068 - Four Number Sum](https://github.com/casp3rus/100DaysOfAlgo/tree/main/068FourNumberSum)

@@ -148,6 +148,8 @@
 
 > [Day 088 - Number Of Ways To Traverse Graph](https://github.com/casp3rus/100DaysOfAlgo/tree/main/088NumberOfWaysToTraverseGraph)
 
+> [Day 089 - Height Balanced Binary Tree](https://github.com/casp3rus/100DaysOfAlgo/tree/main/089HeightBalancedBinaryTree)
+
 ## Hard
 
 > [Day 068 - Four Number Sum](https://github.com/casp3rus/100DaysOfAlgo/tree/main/068FourNumberSum)

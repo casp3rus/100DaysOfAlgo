@@ -39,7 +39,7 @@ def numberOfWaysToTraverseGraph(width, height):
 
 
 def factorial(num):
-    result = 1.
+    result = 1
     for n in range(2, num + 1):
         result *= n
 

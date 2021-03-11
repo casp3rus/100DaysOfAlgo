@@ -183,3 +183,5 @@
 > [Day 082 - Numbers In Pi](https://github.com/casp3rus/100DaysOfAlgo/tree/main/082NumbersInPi)
 
 > [Day 087 - Dijkstra's Algorithm](https://github.com/casp3rus/100DaysOfAlgo/tree/main/087DijkstrasAlgorithm)
+
+> [Day 090 - Topological Sort](https://github.com/casp3rus/100DaysOfAlgo/tree/main/090TopologicalSort)

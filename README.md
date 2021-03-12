@@ -185,3 +185,5 @@
 > [Day 087 - Dijkstra's Algorithm](https://github.com/casp3rus/100DaysOfAlgo/tree/main/087DijkstrasAlgorithm)
 
 > [Day 090 - Topological Sort](https://github.com/casp3rus/100DaysOfAlgo/tree/main/090TopologicalSort)
+
+> [Day 091 - Boggle Board](https://github.com/casp3rus/100DaysOfAlgo/tree/main/091BoggleBoard)

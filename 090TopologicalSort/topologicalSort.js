@@ -61,7 +61,7 @@ class JobGraph {
   }
 
   getNode(job) {
-    if (!this.graph.job) this.addNode(job);
+    if (!(job in this.graph)) this.addNode(job);
     return this.graph[job];
   }
 }

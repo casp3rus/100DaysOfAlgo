@@ -16,6 +16,7 @@
         ["N", "O", "T", "R", "E", "-", "P"], 
         ["x", "x", "D", "E", "T", "A", "E"], 
     ]
+    
     words = ["this", "is", "not", "a", "simple", "boggle", "board", "test", "REPEATED", "NOTRE-PEATED"]
     ~~~
 - Sample output:

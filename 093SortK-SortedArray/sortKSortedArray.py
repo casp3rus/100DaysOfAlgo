@@ -1,3 +1,8 @@
+# Solution
+# O(nlog(k)) time / O(k) space
+# n - length of the array
+# k - how far the elements are from their sorted position
+
 def sortKSortedArray(array, k):
     minHeapWithKElements = MinHeap(array[: min(k + 1, len(array))])
 

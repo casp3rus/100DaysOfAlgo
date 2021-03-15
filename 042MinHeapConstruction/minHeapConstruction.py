@@ -9,7 +9,7 @@ class MinHeap:
         firstParentIdx = (len(array) - 2) // 2
         for currentIdx in reversed(range(firstParentIdx + 1)):
             self.siftDown(currentIdx, len(array) - 1, array)
-            return array
+        return array
 
     # O(log(n)) time / O(1) space
 

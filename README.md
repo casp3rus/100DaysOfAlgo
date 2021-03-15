@@ -191,3 +191,5 @@
 > [Day 092 - Continous Median](https://github.com/casp3rus/100DaysOfAlgo/tree/main/092ContinousMedian)
 
 > [Day 093 - Sort K-Sorted Array](https://github.com/casp3rus/100DaysOfAlgo/tree/main/093SortK-SortedArray)
+
+> [Day 094 - Find Loop](https://github.com/casp3rus/100DaysOfAlgo/tree/main/094FindLoop)

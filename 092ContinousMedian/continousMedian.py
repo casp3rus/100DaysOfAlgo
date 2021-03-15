@@ -7,7 +7,6 @@ class ContinuousMedianHandler:
         self.greaters = Heap(MIN_HEAP_FUNC, [])
         self.median = None
 
-		
     def insert(self, number):
         if not self.lowers.length or number < self.lowers.peek():
             self.lowers.insert(number)
@@ -39,14 +38,14 @@ class Heap:
 		self.comparisonFunc = comparisonFunc
 		self.heap = self.buildHeap(array)
 		self.length = len(self.heap)
-		
-	def buildHeap(self, array):
+
+    def buildHeap(self, array):
 		firstParentIdx = (len(array) - 2) // 2
 		for currentIdx in reversed(range(firstParentIdx + 1)):
 			self.siftDown(currentIdx, len(array) - 1, array)
 		return array
-	
-	def siftDown(self, currentIdx, endIdx, heap):
+
+    def siftDown(self, currentIdx, endIdx, heap):
 		childOneIdx = currentIdx * 2 + 1
 		while childOneIdx <= endIdx:
 			childTwoIdx = currentIdx * 2 + 2 if currentIdx * 2 + 2 <= endIdx else -1
@@ -63,16 +62,16 @@ class Heap:
 				childOneIdx = currentIdx * 2 + 1
 			else:
 				return
- 			
-	def siftUp(self, currentIdx, heap):
+
+    def siftUp(self, currentIdx, heap):
         parentIdx = (currentIdx - 1) // 2
         while currentIdx > 0:
             if self.comparisonFunc(heap[currentIdx], heap[parentIdx]):
 				self.swap(currentIdx, parentIdx, heap)
-            	currentIdx = parentIdx
-            	parentIdx = (currentIdx - 1) // 2
-			else:
-				return
+                currentIdx = parentIdx
+                parentIdx = (currentIdx - 1) // 2
+            else:
+                return
 
     def peek(self):
         return self.heap[0]
@@ -80,13 +79,13 @@ class Heap:
     def remove(self):
         self.swap(0, self.length - 1, self.heap)
         valueToRemove = self.heap.pop()
-		self.length -= 1
+    	self.length -= 1
         self.siftDown(0, len(self.heap) - 1, self.heap)
         return valueToRemove
 
     def insert(self, value):
         self.heap.append(value)
-		self.length += 1
+        self.length += 1
         self.siftUp(self.length - 1, self.heap)
 
     def swap(self, i, j, heap):

@@ -5,9 +5,9 @@
 - You can assume that the input Linked List will always have at least one node; in other words, the head will never be None / null.
 - Sample input:
     ~~~
-    head = 0 -> 1 -> 2 -> 3 -> 4 -> 5   // the head node with value 0
+    head = 0 → 1 → 2 → 3 → 4 → 5   // the head node with value 0
     ~~~
 - Sample output:
     ~~~
-    5 -> 4 -> 3 -> 2 -> 1 -> 0  // the new head node with value 5
+    5 → 4 → 3 → 2 → 1 → 0  // the new head node with value 5
     ~~~

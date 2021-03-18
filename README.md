@@ -195,3 +195,5 @@
 > [Day 094 - Find Loop](https://github.com/casp3rus/100DaysOfAlgo/tree/main/094FindLoop)
 
 > [Day 095 - Reverse Linked List](https://github.com/casp3rus/100DaysOfAlgo/tree/main/095ReverseLinkedList)
+
+> [Day 096 - Merge Linked Lists](https://github.com/casp3rus/100DaysOfAlgo/tree/main/096MergeLinkedList)

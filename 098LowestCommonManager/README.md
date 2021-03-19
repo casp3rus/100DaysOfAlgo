@@ -5,6 +5,7 @@
 - Sample input:
     ~~~
     // From the organizational chart below.
+    
     topManager = Node A
     reportOne = Node E
     reportTwo = Node I

@@ -1,4 +1,4 @@
-## Shift Linked 
+## Shift Linked List
 
 - Write a function that takes in the head of a Singly Linked List and an integer k that shifts the list in place (i.e., doesn't create a brand new list) by k positions, and returns its new head. Shifting a Linked List means moving its nodes forward or backward and wrapping them around the list where appropriate. For example, shifting a Linked List forward by one position would make its tail become the new head of the linked list.
 - Whether the nodes are moved forward or backward is determined by whether k is positive or negative.

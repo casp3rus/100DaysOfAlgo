@@ -199,3 +199,5 @@
 > [Day 096 - Merge Linked Lists](https://github.com/casp3rus/100DaysOfAlgo/tree/main/096MergeLinkedList)
 
 > [Day 097 - Shift Linked List](https://github.com/casp3rus/100DaysOfAlgo/tree/main/097ShiftLinkedList)
+
+> [Day 098 - Lowest Common Manager](https://github.com/casp3rus/100DaysOfAlgo/tree/main/098LowestCommonManager)

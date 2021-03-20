@@ -201,3 +201,5 @@
 > [Day 097 - Shift Linked List](https://github.com/casp3rus/100DaysOfAlgo/tree/main/097ShiftLinkedList)
 
 > [Day 098 - Lowest Common Manager](https://github.com/casp3rus/100DaysOfAlgo/tree/main/098LowestCommonManager)
+
+> [Day 099 - Interweaving Strings](https://github.com/casp3rus/100DaysOfAlgo/tree/main/099InterweavingStrings)

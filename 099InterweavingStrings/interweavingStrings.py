@@ -9,18 +9,18 @@ def interweavingStrings(one, two, three):
     return areInterwoven(one, two, three, 0, 0)
 
 def areInterwoven(one, two, three, i, j):
-	k = i + j
-	if k == len(three):
-		return True
-	
-	if i < len(one) and one[i] == three[k]:
-		if areInterwoven(one, two, three, i + 1, j):
-			return True
-	
-	if j < len(two) and two[j] == three[k]:
-		return areInterwoven(one, two, three, i, j + 1)
-	
-	return False
+    k = i + j
+    if k == len(three):
+    	return True
+    
+    if i < len(one) and one[i] == three[k]:
+    	if areInterwoven(one, two, three, i + 1, j):
+    		return True
+    
+    if j < len(two) and two[j] == three[k]:
+    	return areInterwoven(one, two, three, i, j + 1)
+    
+    return False
 
 
 # Solution 1
@@ -35,21 +35,21 @@ def interweavingStrings(one, two, three):
     return areInterwoven(one, two, three, 0, 0, cache)
 
 def areInterwoven(one, two, three, i, j, cache):
-	if cache[i][j] is not None:
-		return cache[i][j]
-	
-	k = i + j
-	if k == len(three):
-		return True
-	
-	if i < len(one) and one[i] == three[k]:
-		cache[i][j] = areInterwoven(one, two, three, i + 1, j, cache)
-		if cache[i][j]:
-			return True
-	
-	if j < len(two) and two[j] == three[k]:
-		cache[i][j] = areInterwoven(one, two, three, i, j + 1, cache)
-		return cache[i][j]
-	
-	cache[i][j] = False
-	return False
+    if cache[i][j] is not None:
+    	return cache[i][j]
+
+    k = i + j
+    if k == len(three):
+    	return True
+
+    if i < len(one) and one[i] == three[k]:
+    	cache[i][j] = areInterwoven(one, two, three, i + 1, j, cache)
+    	if cache[i][j]:
+    		return True
+
+    if j < len(two) and two[j] == three[k]:
+    	cache[i][j] = areInterwoven(one, two, three, i, j + 1, cache)
+    	return cache[i][j]
+
+    cache[i][j] = False
+    return False

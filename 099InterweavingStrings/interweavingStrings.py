@@ -23,7 +23,7 @@ def areInterwoven(one, two, three, i, j):
     return False
 
 
-# Solution 1
+# Solution 2
 # O(n^(n + m)) time / O(n + m) space
 # n - length of the first string
 # m - length of the second string

@@ -1,4 +1,4 @@
-# solution
+# Solution
 # O((2n)!/((n!((n + 1)!)))) time / O((2n)!/((n!((n + 1)!)))) space
 # n - input number
 

@@ -205,3 +205,5 @@
 > [Day 099 - Interweaving Strings](https://github.com/casp3rus/100DaysOfAlgo/tree/main/099InterweavingStrings)
 
 > [Day 100 - Solve Sudoku](https://github.com/casp3rus/100DaysOfAlgo/tree/main/100SolveSudoku)
+
+> [Day 101 - Generate Div Tags](https://github.com/casp3rus/100DaysOfAlgo/tree/main/101GenerateDivTags)

@@ -1,4 +1,4 @@
-// Solution 1
+// Solution 1 - recursion
 // O(log(n)) time / O(log(n)) space
 
 const shiftedBinarySearch = (array, target) => {
@@ -30,7 +30,7 @@ const shiftedBinarySearchHelper = (array, target, left, right) => {
   }
 };
 
-// Solution 2
+// Solution 2 - iteration
 // O(log(n)) time / O(1) space
 
 const shiftedBinarySearch = (array, target) => {

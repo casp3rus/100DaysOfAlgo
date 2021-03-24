@@ -207,3 +207,5 @@
 > [Day 100 - Solve Sudoku](https://github.com/casp3rus/100DaysOfAlgo/tree/main/100SolveSudoku)
 
 > [Day 101 - Generate Div Tags](https://github.com/casp3rus/100DaysOfAlgo/tree/main/101GenerateDivTags)
+
+> [Day 102 - Shifted Binary Search](https://github.com/casp3rus/100DaysOfAlgo/tree/main/102ShiftedBinarySearch)

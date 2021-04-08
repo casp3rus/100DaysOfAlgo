@@ -48,6 +48,8 @@
 
 > [Day 084 - Sorted Squared Array](https://github.com/casp3rus/100DaysOfAlgo/tree/main/084SortedSquaredArray)
 
+> [Day 103 - Tandem Bicycle](https://github.com/casp3rus/100DaysOfAlgo/tree/main/103TandemBicycle)
+
 ## Medium
 
 > [Day 017 - Three Number Sum](https://github.com/casp3rus/100DaysOfAlgo/tree/main/017ThreeNumberSum)

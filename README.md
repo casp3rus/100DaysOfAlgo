@@ -152,6 +152,8 @@
 
 > [Day 089 - Height Balanced Binary Tree](https://github.com/casp3rus/100DaysOfAlgo/tree/main/089HeightBalancedBinaryTree)
 
+> [Day 104 - Merge OverlappingIntervals](https://github.com/casp3rus/100DaysOfAlgo/tree/main/104MergeOverlappingIntervals)
+
 ## Hard
 
 > [Day 068 - Four Number Sum](https://github.com/casp3rus/100DaysOfAlgo/tree/main/068FourNumberSum)

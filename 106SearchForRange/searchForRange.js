@@ -39,7 +39,7 @@ const alteredBinarySearch = (
   }
 };
 
-//Solution 2
+//Solution 2 - iteration
 // O(log(n)) time / O(1) space
 
 const searchForRange = (array, target) => {

@@ -1,4 +1,4 @@
-# Solution
+# Solution 1 - recursion
 # O(log(n)) time / O(log(n)) space
 
 def searchForRange(array, target):
@@ -27,7 +27,7 @@ def alteredBinarySearch(array, target, left, right, finalRange, goLeft):
       else:
         alteredBinarySearch(array, target, mid + 1, right, finalRange, goLeft)
 
-# Solution
+# Solution 2 - iteration
 # O() time / O() space
 
 def searchForRange(array, target):

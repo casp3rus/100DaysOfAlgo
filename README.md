@@ -50,6 +50,8 @@
 
 > [Day 103 - Tandem Bicycle](https://github.com/casp3rus/100DaysOfAlgo/tree/main/103TandemBicycle)
 
+> [Day 105 - First Non-Repeating Character](https://github.com/casp3rus/100DaysOfAlgo/tree/main/105FirstNon-RepeatingCharacter)
+
 ## Medium
 
 > [Day 017 - Three Number Sum](https://github.com/casp3rus/100DaysOfAlgo/tree/main/017ThreeNumberSum)

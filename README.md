@@ -160,6 +160,8 @@
 
 > [Day 108 - Index Equals Value](https://github.com/casp3rus/100DaysOfAlgo/tree/main/108IndexEqualsValue)
 
+> [Day 109 - Quick Sort](https://github.com/casp3rus/100DaysOfAlgo/tree/main/109QuickSort)
+
 ## Hard
 
 > [Day 068 - Four Number Sum](https://github.com/casp3rus/100DaysOfAlgo/tree/main/068FourNumberSum)

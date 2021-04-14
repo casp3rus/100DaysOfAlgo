@@ -1,5 +1,5 @@
 # Solution
-# O() time / O() space
+# O(nlog(n)) time / O(nlog(n)) space
 
 def quickSort(array):
   quickSortHelper(array, 0, len(array) - 1)

@@ -1,5 +1,5 @@
 // Solution
-// O() time / O() space
+// O(nlog(n)) time / O(nlog(n)) space
 
 const quickSort = (array) => {
   quickSortHelper(array, 0, array.length - 1);

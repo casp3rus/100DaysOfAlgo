@@ -1,4 +1,4 @@
-# Solutiona
+# Solution
 # O(nlog(n)) time / O(nlog(n)) space
 
 def quick_sort(arr)

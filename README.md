@@ -162,7 +162,7 @@
 
 > [Day 109 - Quick Sort](https://github.com/casp3rus/100DaysOfAlgo/tree/main/109QuickSort)
 
-> [Day 110 - Sort Stack]()
+> [Day 110 - Sort Stack](https://github.com/casp3rus/100DaysOfAlgo/tree/main/110SortStack)
 
 ## Hard
 

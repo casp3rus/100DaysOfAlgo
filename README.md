@@ -156,17 +156,8 @@
 
 > [Day 104 - Merge OverlappingIntervals](https://github.com/casp3rus/100DaysOfAlgo/tree/main/104MergeOverlappingIntervals)
 
-> [Day 107 - Quickselect](https://github.com/casp3rus/100DaysOfAlgo/tree/main/107Quickselect)
-
-> [Day 108 - Index Equals Value](https://github.com/casp3rus/100DaysOfAlgo/tree/main/108IndexEqualsValue)
-
-> [Day 109 - Quick Sort](https://github.com/casp3rus/100DaysOfAlgo/tree/main/109QuickSort)
-
 > [Day 110 - Sort Stack](https://github.com/casp3rus/100DaysOfAlgo/tree/main/110SortStack)
 
-> [Day 111 - Heap Sort](https://github.com/casp3rus/100DaysOfAlgo/tree/main/111HeapSort)
-
-> [Day 112 - Shorten Path](https://github.com/casp3rus/100DaysOfAlgo/tree/main/112ShortenPath)
 
 ## Hard
 
@@ -227,3 +218,15 @@
 > [Day 101 - Generate Div Tags](https://github.com/casp3rus/100DaysOfAlgo/tree/main/101GenerateDivTags)
 
 > [Day 102 - Shifted Binary Search](https://github.com/casp3rus/100DaysOfAlgo/tree/main/102ShiftedBinarySearch)
+
+> [Day 106 - Search For Range](https://github.com/casp3rus/100DaysOfAlgo/tree/main/106SearchForRange)
+
+> [Day 107 - Quickselect](https://github.com/casp3rus/100DaysOfAlgo/tree/main/107Quickselect)
+
+> [Day 108 - Index Equals Value](https://github.com/casp3rus/100DaysOfAlgo/tree/main/108IndexEqualsValue)
+
+> [Day 109 - Quick Sort](https://github.com/casp3rus/100DaysOfAlgo/tree/main/109QuickSort)
+
+> [Day 111 - Heap Sort](https://github.com/casp3rus/100DaysOfAlgo/tree/main/111HeapSort)
+
+> [Day 112 - Shorten Path](https://github.com/casp3rus/100DaysOfAlgo/tree/main/112ShortenPath)

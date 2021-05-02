@@ -166,6 +166,8 @@
 
 > [Day 111 - Heap Sort](https://github.com/casp3rus/100DaysOfAlgo/tree/main/111HeapSort)
 
+> [Day 112 - Shorten Path](https://github.com/casp3rus/100DaysOfAlgo/tree/main/112ShortenPath)
+
 ## Hard
 
 > [Day 068 - Four Number Sum](https://github.com/casp3rus/100DaysOfAlgo/tree/main/068FourNumberSum)

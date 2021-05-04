@@ -230,3 +230,5 @@
 > [Day 111 - Heap Sort](https://github.com/casp3rus/100DaysOfAlgo/tree/main/111HeapSort)
 
 > [Day 112 - Shorten Path](https://github.com/casp3rus/100DaysOfAlgo/tree/main/112ShortenPath)
+
+> [Day 113 - Longest Substring Without Duplication](https://github.com/casp3rus/100DaysOfAlgo/tree/main/113LongestSubstringWithoutDuplication)

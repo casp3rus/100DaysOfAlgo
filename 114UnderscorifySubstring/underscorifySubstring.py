@@ -1,5 +1,7 @@
 # Solution
-# O() time / O() Space
+# O(n + m) time / O(n) space
+# n - length of the string
+# m - length of the substring
 
 def underscorifySubstring(string, substring):
   locations = collapse(getLocations(string, substring))

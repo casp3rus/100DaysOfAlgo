@@ -232,3 +232,5 @@
 > [Day 112 - Shorten Path](https://github.com/casp3rus/100DaysOfAlgo/tree/main/112ShortenPath)
 
 > [Day 113 - Longest Substring Without Duplication](https://github.com/casp3rus/100DaysOfAlgo/tree/main/113LongestSubstringWithoutDuplication)
+
+> [Day 114 - Underscorify Substring](https://github.com/casp3rus/100DaysOfAlgo/tree/main/114UnderscorifySubstring)

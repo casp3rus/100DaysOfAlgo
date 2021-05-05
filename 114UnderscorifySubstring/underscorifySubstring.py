@@ -5,7 +5,7 @@
 
 def underscorifySubstring(string, substring):
   locations = collapse(getLocations(string, substring))
-  return underscorify(string, locations )
+  return underscorify(string, locations)
 
 def getLocations(string, substring):
   locations = []

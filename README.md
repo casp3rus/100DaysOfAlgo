@@ -234,3 +234,5 @@
 > [Day 113 - Longest Substring Without Duplication](https://github.com/casp3rus/100DaysOfAlgo/tree/main/113LongestSubstringWithoutDuplication)
 
 > [Day 114 - Underscorify Substring](https://github.com/casp3rus/100DaysOfAlgo/tree/main/114UnderscorifySubstring)
+
+> [Day 115 - Pattern Matcher](https://github.com/casp3rus/100DaysOfAlgo/tree/main/115PatternMatcher)

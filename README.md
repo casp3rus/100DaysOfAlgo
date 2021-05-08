@@ -236,3 +236,5 @@
 > [Day 114 - Underscorify Substring](https://github.com/casp3rus/100DaysOfAlgo/tree/main/114UnderscorifySubstring)
 
 > [Day 115 - Pattern Matcher](https://github.com/casp3rus/100DaysOfAlgo/tree/main/115PatternMatcher)
+
+> [Day 116 - Multi String Search](https://github.com/casp3rus/100DaysOfAlgo/tree/main/116MultiStringSearch)

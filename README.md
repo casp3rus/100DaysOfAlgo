@@ -242,3 +242,5 @@
 > [Day 117 - Ambiguous Measurements](https://github.com/casp3rus/100DaysOfAlgo/tree/main/117AmbiguousMeasurements)
 
 > [Day 118 - Laptop Rental](https://github.com/casp3rus/100DaysOfAlgo/tree/main/118LaptopRental)
+
+> [Day 119 - Largest Rectangle Under Skyline](https://github.com/casp3rus/100DaysOfAlgo/tree/main/119LargestRectangleUnderSkyline)

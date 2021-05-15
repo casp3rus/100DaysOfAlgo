@@ -52,7 +52,7 @@ def getNodeFromValue(value, tree, nodesToParents):
     if nodeParent.left is not None and nodeParent.left.value == value:
         return nodeParent.left
 
-        return nodeParent.right
+    return nodeParent.right # incorrect original indent in this place
 
 
 def populateNodesToParents(node, nodesToParents, parent=None):

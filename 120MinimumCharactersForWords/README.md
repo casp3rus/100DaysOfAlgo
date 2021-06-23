@@ -1,7 +1,7 @@
 ## Minimum Characters For Words
 -  Write a function that takes in an array of words and returns the smallest array of characters needed to form all of the words. The characters don't need to be in any particular order.
 - For example, the characters **["y", "r", "o", "u"]** are needed to form the words **["your", "you", "or", "yo"]**.
-**Note:** the input words won't contain any spaces; however, they might contain punctuation and/or special characters.
+- **Note:** the input words won't contain any spaces; however, they might contain punctuation and/or special characters.
 - Sample input:
   ~~~
   words = ["this", "that", "did", "deed", "them!", "a"]

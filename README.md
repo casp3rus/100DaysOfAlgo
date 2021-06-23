@@ -158,6 +158,7 @@
 
 > [Day 110 - Sort Stack](https://github.com/casp3rus/100DaysOfAlgo/tree/main/110SortStack)
 
+> [Day 120 - Minimun Characters For Words](https://github.com/casp3rus/100DaysOfAlgo/tree/main/120MinimumCharactersForWords)
 
 ## Hard
 

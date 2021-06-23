@@ -43,3 +43,4 @@ def makeArrayFromCharacterFrequencies(characterFrequencies):
       characters.append(character)
 
   return characters
+  

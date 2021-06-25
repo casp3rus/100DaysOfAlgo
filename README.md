@@ -86,6 +86,7 @@
 - [Day 104 - Merge OverlappingIntervals](https://github.com/casp3rus/100DaysOfAlgo/tree/main/104MergeOverlappingIntervals)
 - [Day 110 - Sort Stack](https://github.com/casp3rus/100DaysOfAlgo/tree/main/110SortStack)
 - [Day 120 - Minimun Characters For Words](https://github.com/casp3rus/100DaysOfAlgo/tree/main/120MinimumCharactersForWords)
+- [Day 121 - Minimum Passes Of Matrix](https://github.com/casp3rus/100DaysOfAlgo/tree/main/121MinimumPassesOfMatrix)
 
 </details>
 
